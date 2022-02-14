@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "hashicorp-se"
+    organization = "your-organization"
     workspaces {
       tags = ["tfc-config"]
     }
