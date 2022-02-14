@@ -1,5 +1,5 @@
 variable "org" {
-    default = "hashicorp-se"
+    default = "your-organization"
 }
 variable "tfc_token" { sensitive = true }
 variable "aws_access_key" { sensitive = true }
